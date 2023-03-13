@@ -1,4 +1,3 @@
-import React from "react";
 import INFO from "../data/info";
 
 const RenderData = () => {
