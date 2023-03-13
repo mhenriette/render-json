@@ -14,7 +14,8 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd ../renderform
+$ git clone https://github.com/mhenriette/render-json.git
+$ cd render-json/
 $ npm install
 $ npm start
 ```
